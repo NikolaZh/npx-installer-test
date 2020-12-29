@@ -1,0 +1,7 @@
+{
+  "name": "@nikolazh/npx-installer-test",
+  "version": "0.0.1",
+  "bin": {
+    "npx-installer-test": "./npx-installer-test.js"
+  }
+}
